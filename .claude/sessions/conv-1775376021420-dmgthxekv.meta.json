@@ -1,0 +1,19 @@
+{
+  "id": "conv-1775376021420-dmgthxekv",
+  "title": "我需要先查找是否有与架构图绘制或 Excalidraw 使用相关的技能，以便更好地处理您的请求...",
+  "titleGenerationStatus": "success",
+  "createdAt": 1775376021421,
+  "updatedAt": 1775376464811,
+  "lastResponseAt": 1775376464811,
+  "sessionId": "51f774b8-cc9f-489c-9bc0-5f1e273e64df",
+  "sdkSessionId": "51f774b8-cc9f-489c-9bc0-5f1e273e64df",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 77548,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 200000,
+    "contextTokens": 77548,
+    "percentage": 39
+  }
+}

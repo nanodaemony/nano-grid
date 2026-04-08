@@ -1,0 +1,41 @@
+{
+  "settings": {
+    "migrated": 6,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "twemoji",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "LiAlignJustify",
+      "LiArchive",
+      "LiBadgeCheck",
+      "LiArrowUpSquare",
+      "LiAlbum"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": true,
+    "iconInTitlePosition": "inline",
+    "iconInFrontmatterEnabled": false,
+    "iconInFrontmatterFieldName": "icon",
+    "iconColorInFrontmatterFieldName": "iconColor",
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconsInLinksEnabled": true,
+    "iconIdentifier": ":",
+    "lucideIconPackType": "native",
+    "debugMode": false,
+    "useInternalPlugins": false
+  },
+  "M-部署/小方格部署.md": "LiBadgeCheck",
+  "A-小方格/10-功能格子/投硬币.md": "LiBadgeCheck",
+  "A-小方格/1-小方格整体架构.md": "LiBadgeCheck",
+  "C-AI/1.Coding Plan.md": "LiBadgeCheck"
+}
