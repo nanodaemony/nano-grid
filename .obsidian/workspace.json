@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "M-部署/LittleGrid Docker 独立部署.md",
+                "file": "B-汉语桥/问题.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "LittleGrid Docker 独立部署"
+              "title": "问题"
             }
           }
         ]
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "M-部署/LittleGrid Docker 独立部署.md",
+                "file": "B-汉语桥/问题.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "LittleGrid Docker 独立部署 的大纲"
+              "title": "问题 的大纲"
             }
           },
           {
@@ -171,8 +171,8 @@
             "state": {
               "type": "claudian-view",
               "state": {},
-              "icon": "bot",
-              "title": "Claudian"
+              "icon": "lucide-ghost",
+              "title": "claudian-view"
             }
           }
         ],
@@ -180,7 +180,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 493.5
+    "width": 353.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -197,8 +197,16 @@
   },
   "active": "303f944acded2e6a",
   "lastOpenFiles": [
-    "A-小方格/1000-踩坑记录.md",
+    "B-汉语桥/资料.md",
+    "B-汉语桥/问题.md",
+    "B-汉语桥/词汇demo.md",
+    "zimg/05a926d325152e3c4512e1ed5166bd03.jpg",
+    "zimg/0f2b0a512a05632789f763599049c63f.jpg",
+    "zimg/5ea0877b76267314617ec797d5be1910.png",
     "M-部署/LittleGrid Docker 独立部署.md",
+    "B-汉语桥",
+    "zimg",
+    "A-小方格/1000-踩坑记录.md",
     "M-部署/小方格部署.md",
     "D-知识库/1.知识库搭建.md",
     "A-小方格/1-小方格整体架构.md",
@@ -215,8 +223,6 @@
     "decoded_excalidraw.json",
     "zimg/Drawing 2026-04-05 15.57.30.excalidraw.md.tmp.4108.1775376270935",
     "tmp_excalidraw/full_excalidraw_base64.txt",
-    "tmp_excalidraw/full_excalidraw.json",
-    "tmp_excalidraw/full_excalidraw.json.tmp.4108.1775376200899",
     "Excalidraw/Drawing 2026-04-05 15.56.07.excalidraw.md",
     "A-小方格/10-功能格子/翻扑克牌.md",
     "A-小方格/10-功能格子/房贷计算器.md",
@@ -230,9 +236,6 @@
     "A-小方格/10-功能格子/闹钟.md",
     "A-小方格/10-功能格子/纪念日.md",
     "A-小方格/10-功能格子/大转盘.md",
-    "A-小方格/10-功能格子/背单词.md",
-    "A-小方格/10-功能格子/买菜搭子.md",
-    "A-小方格/10-功能格子/记忆卡片.md",
     "zimg/Pasted image 20260404180702.png",
     "Pasted image 20260404101658.png",
     "zimg/Pasted image 20260404171947.png",

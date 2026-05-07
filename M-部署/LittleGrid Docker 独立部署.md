@@ -5,6 +5,8 @@ yum install git
 git clone https://github.com/nanodaemony/little-grid.git
 # 安装1Panel-其实就是安装Docker
 bash -c "$(curl -sSL https://resource.fit2cloud.com/1panel/package/v2/quick_start.sh)"
+# 自己安装Docker可以配置这个镜像地址
+"https://docker.1panel.live"
 ```
 
 ## 环境配置
@@ -39,6 +41,9 @@ REDIS_PORT=6379
 # ============================================================
 BACKEND_PORT=8000
 FRONTEND_PORT=8001
+
+ADMIN_USERNAME=1154720425
+ADMIN_PASSWORD=cz1174520425
 ```
 
 ## 部署命令
